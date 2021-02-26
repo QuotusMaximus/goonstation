@@ -55,6 +55,12 @@
 	icon_state = "green"
 	item_state = "ggloves"
 
+/obj/item/clothing/head/party/birthday/green
+	name = "birthday hat"
+	icon_state = "birthday-green"
+	item_state = "birthday-pink"
+	desc = "Happy birthday to you, happy birthday to you, you look like a monkey and you smell like one too."
+
 /obj/item/clothing/head/black
 	desc = "A knit cap in black."
 	icon_state = "black"
